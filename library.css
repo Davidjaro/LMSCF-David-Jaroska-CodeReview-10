@@ -1,0 +1,12 @@
+.card-image{
+	height: 300px;
+	object-fit: contain;
+}
+ul{
+	width: 8%;
+}
+body{
+	background-image: url("img/praha.jpg");
+	background-repeat: repeat;
+	background-size: contain;
+}
